@@ -1,2 +1,2 @@
-# -paague.github.io-nocode
+#paague.github.io/nocode
 subpage
